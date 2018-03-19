@@ -1,0 +1,135 @@
+Compile using
+javac *.java
+
+Run using
+java Program
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+1
+
+Distributor entry
+Name: QUBE
+Is sub-distributor of: none
+Include: TN-IN
+Include: none
+Exclude: none
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE
+Area: IN
+NO
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE
+Area: TN-IN
+YES
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE
+Area: KLRAI-TN-IN
+YES
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+1
+
+Distributor entry
+Name: QUBE2
+Is sub-distributor of: none
+Include: IN
+Include: KLRAI-TN-IN
+Include: none
+Exclude: TN-IN
+Exclude: none
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE2
+Area: IN
+YES
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE2
+Area: TN-IN
+NO
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: QUBE2
+Area: KLRAI-TN-IN
+YES
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+
+Distributor entry
+Name: SPI cinemas
+Is sub-distributor of: none
+Include: TN-IN
+Include: none
+Exclude: none
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+1
+
+Distributor entry
+Name: LUXE
+Is sub-distributor of: SPI cinemas
+Include: WLGTN-TN-IN
+Include: none
+Exclude: none
+
+Options:
+1. Add new distributor
+2. Query distributor permissions
+0. Quit
+2
+
+Distributor permission query
+Distributor Name: LUXE
+Area: WLGTN-TN-IN
+YES
